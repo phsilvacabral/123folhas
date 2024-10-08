@@ -1,6 +1,7 @@
 ![logo_semfundo](https://github.com/user-attachments/assets/dd912800-1511-42cd-95ca-670641f15fda)
 
 # Sobre
+#### Vídeo de apresentação: https://youtu.be/s2XFVh1eAY8?si=fyep8M-pi3fAs8Ox
 123folhas foi um projeto de finalização do 2º período das matérias de Engenharia de Requisitos, Banco de Dados, Interação Humano Computador e Programação WEB. A proposta foi fazer uma feramenta de agregação de viagens somente ecológicas, facilitando a busca e o salvamento delas. Foi usado HTML, CSS e JavaScript puro para o front. Para o back, usamos PHP e MySQL para o banco de dados. Para o planejamento, fizemos um diagrma de casos de uso e diagramas conceituais do banco de dados. Para o planejamento do design, foi feito uma prototipação no Figma: https://www.figma.com/design/IsUTm7m6Gpja4XrkSvUrj8/123folhas?m=auto&t=kuxl0m1cQbY4U3hW-1
 
 # Instalação e execução
